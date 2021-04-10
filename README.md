@@ -44,7 +44,11 @@ TODO
 ## Maintainers
 
 [@kk19990709](http://https://github.com/kk19990709)
+[@cabbageNoob](https://github.com/cabbageNoob)
+[@duLun008](https://github.com/duLun008)
+[@QingZhao-Code](https://github.com/QingZhao-Code)
 
 ## Contributing
 
 Feel free to dive in! [Open an issue](https://github.com/kk19990709/our-snippets-in-vscode/issues/new) or submit proposals.
+Pay attention to the [naming_convention]()
